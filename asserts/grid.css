@@ -1,0 +1,30 @@
+/* MEDIA QUERYS */
+
+@media (min-width: 768px) {
+    .d-flex-query {
+        display: flex;           
+    }
+
+    .col-3 {
+        width: 25%;        
+    }
+
+    .col-9 {
+        width: 75%;        
+    }  
+    
+
+}
+
+
+/* GRID CSS COLUMNS*/
+
+.col-12 {
+    width: 100%;
+    display:flex;  
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+
+
