@@ -97,7 +97,8 @@ li {
 
 .card {
     margin: 2rem 0;
-   
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 .card-info {
