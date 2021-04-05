@@ -5,6 +5,7 @@
         display: flex;           
     }
 
+
     .col-3 {
         width: 25%;        
     }
@@ -12,6 +13,14 @@
     .col-9 {
         width: 75%;        
     }  
+
+    .text-responsive1 {
+        font-size: 5rem;
+    }
+
+    .text-responsive2 {
+        font-size: 2rem;
+    }
     
 
 }

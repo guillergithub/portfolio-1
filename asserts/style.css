@@ -96,7 +96,8 @@ li {
 }
 
 .card {
-    margin: 2rem;
+    margin: 2rem 0;
+   
 }
 
 .card-info {
@@ -236,7 +237,9 @@ li {
     margin-top: 1.2rem;
 }
 
-
+.mb-2 {
+    margin-bottom: 2rem;
+}
 
 
 .w-100 {
@@ -291,6 +294,14 @@ li {
     position: absolute;
 }
 
+.text-responsive1 {
+    font-size: 3.5rem;
+    opacity: 0.2;
+}
+
+.text-responsive2 {
+    font-size: 1.5rem;    
+}
 
 
 
